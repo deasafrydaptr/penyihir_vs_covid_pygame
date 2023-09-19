@@ -33,6 +33,14 @@ Tujuan dari permainan ini adalah untuk membunuh sebanyak mungkin virus corona da
 
 Untuk memulai game ini, pastikan Anda telah menginstal Python dan library pygame di komputer Anda. Kemudian, jalankan berkas `main.py` dengan menggunakan Python interpreter. Game akan terbuka dan Anda dapat mulai bermain.
 
+## Tangkapan Layar
+
+<img src="images/storyboard.png" alt="Utama" width="300"/>
+
+<img src="images/play.png" alt="Main" width="300"/>
+
+<img src="images/gameover.png" alt="Akhir" width="300"/>
+
 ## Pesan Penting
 
 Game ini bertujuan untuk memberikan hiburan semata ya teman-teman...
